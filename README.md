@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌟 I'm currently learning Fusion 360 from Autodesk
+- 👯 I'm gathering a team for [CanSat](https://www.esa.int/Education/CanSat) 2022/23
+
 <!--
 **clwalther/clwalther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
